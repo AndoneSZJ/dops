@@ -1,0 +1,9 @@
+*.iml
+bin
+target
+/.idea
+.DS_Store
+git-m
+code-coverage
+coverage.check.failed
+*.swp
