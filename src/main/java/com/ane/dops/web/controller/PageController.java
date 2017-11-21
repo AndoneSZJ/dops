@@ -84,6 +84,7 @@ public class PageController {
         return  strTime;
         //输出：创建时间   2009-08-17  10:21
     }
+
     /**
      * 读取文件修改时间的方法1
      */
